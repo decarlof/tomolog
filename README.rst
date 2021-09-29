@@ -1,9 +1,8 @@
 =======
-tomolog
+tomoLog
 =======
 
-**tomolog** is commad-line-interface for extracting tomolog data from `data exchange <https://dxfile.readthedocs.io/en/latest/source/xraytomo.html/>`_ tomographic data used at the `Advanced Photon Source <https://www.aps.anl.gov/>`_  `beamlines <https://dxfile.readthedocs.io/en/latest/source/demo/doc.areadetector.html>`_.
-
+**tomoLog** is commad-line-interface for creating log documents. **tomoLog** extracts experimental and data analysis log from the tomography hdf data and various beamline and experiment logger. 
 Installation
 ============
 
